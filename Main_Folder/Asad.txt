@@ -1,0 +1,5 @@
+NODE_DATA--->    Asad
+ROW_DATA--->    Asad,21i-0078,DBMS,86,Passed
+PARENT_NODE--->    Arham
+LEFT_CHILD--->    nullptr
+RIGHT_CHILD--->    nullptr

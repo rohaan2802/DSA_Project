@@ -1,0 +1,5 @@
+NODE_DATA--->    qwerty
+ROW_DATA--->    dsf,sdf,fdg,qwerty,dfg
+PARENT_NODE--->    qwerty
+LEFT_CHILD--->    nullptr
+RIGHT_CHILD--->    nullptr

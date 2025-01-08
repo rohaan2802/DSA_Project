@@ -1,0 +1,5 @@
+NODE_DATA--->    21i-0070
+ROW_DATA--->    Sara,21i-0070,DBMS,92,Passed
+PARENT_NODE--->    21i-0071
+LEFT_CHILD--->    nullptr
+RIGHT_CHILD--->    nullptr

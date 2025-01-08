@@ -1,0 +1,5 @@
+NODE_DATA--->    sadfg
+ROW_DATA--->    werty,qwertygfd,sdfg,sadfg,sdfgh
+PARENT_NODE--->    94
+LEFT_CHILD--->    nullptr
+RIGHT_CHILD--->    nullptr

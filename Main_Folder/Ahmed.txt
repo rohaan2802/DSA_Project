@@ -1,0 +1,5 @@
+NODE_DATA--->    Ahmed
+ROW_DATA--->    Ahmed,21i-0067,DBMS,90,Passed
+PARENT_NODE--->    Ali
+LEFT_CHILD--->    Adeel
+RIGHT_CHILD--->    nullptr

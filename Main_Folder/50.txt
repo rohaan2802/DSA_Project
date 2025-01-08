@@ -1,0 +1,5 @@
+NODE_DATA--->    50
+ROW_DATA--->    Adnan,21i-0087,Algo,50,Failed
+PARENT_NODE--->    55
+LEFT_CHILD--->    nullptr
+RIGHT_CHILD--->    nullptr

@@ -1,0 +1,5 @@
+NODE_DATA--->    Sidra
+ROW_DATA--->    Sidra,21i-0079,OS,55,Passed
+PARENT_NODE--->    Sara
+LEFT_CHILD--->    nullptr
+RIGHT_CHILD--->    nullptr

@@ -1,0 +1,5 @@
+NODE_DATA--->    87
+ROW_DATA--->    Faiza,21i-0089,OS,87,Passed
+PARENT_NODE--->    86
+LEFT_CHILD--->    nullptr
+RIGHT_CHILD--->    nullptr

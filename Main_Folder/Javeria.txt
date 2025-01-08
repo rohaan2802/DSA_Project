@@ -1,0 +1,5 @@
+NODE_DATA--->    Javeria
+ROW_DATA--->    Javeria,21i-0077,Algo,72,Passed
+PARENT_NODE--->    Ayesha
+LEFT_CHILD--->    Hassan
+RIGHT_CHILD--->    Mehwish

@@ -1,0 +1,5 @@
+NODE_DATA--->    Zara
+ROW_DATA--->    Zara,21i-0071,OS,65,Passed
+PARENT_NODE--->    Zainab
+LEFT_CHILD--->    nullptr
+RIGHT_CHILD--->    nullptr

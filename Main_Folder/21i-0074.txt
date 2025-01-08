@@ -1,0 +1,5 @@
+NODE_DATA--->    21i-0074
+ROW_DATA--->    Taha,21i-0074,DBMS,81,Passed
+PARENT_NODE--->    21i-0075
+LEFT_CHILD--->    nullptr
+RIGHT_CHILD--->    nullptr
