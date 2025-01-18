@@ -52,7 +52,7 @@ label_24:
         {
             goto label_24;
         }
-        if (command_get == 1) // CREATE A NEW BRANCH/FOLDER
+        if (command_get == 1) // CREATE A NEW BRANCH/FOLDERdfdfds
         {
             add_branch_to_array(branch_file, branches_array, "Branches");
             txt_file_copies_function(current_branch, branch_file);
