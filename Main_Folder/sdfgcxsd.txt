@@ -1,5 +1,0 @@
-NODE_DATA--->    sdfgcxsd
-ROW_DATA--->    qwertt,wert,dfgbvc,sdfgcxsd,dfdswesd
-PARENT_NODE--->    94
-LEFT_CHILD--->    nullptr
-RIGHT_CHILD--->    nullptr

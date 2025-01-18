@@ -1,5 +1,0 @@
-NODE_DATA--->    Arham
-ROW_DATA--->    Arham,21i-0076,OS,91,Passed
-PARENT_NODE--->    Ali
-LEFT_CHILD--->    nullptr
-RIGHT_CHILD--->    Asad

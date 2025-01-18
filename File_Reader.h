@@ -311,7 +311,7 @@ void add_branch_to_array(const char* branch_name, char branches_array[100][50], 
 {                      // THIS FUNCTION JUST APPEND THE NAMES OF BRANCHES IN TEXT FILE WHENEVER A NEW BRANCH IS CREATED
                        //  SO WHEN USER WANTS TO SEE THE BRANCHES,IT SHOWS THE BRANCHES BY OPENING AND READING THAT TEXT FILE
     fs::path s1(branch_name);
-    if (fs::exists(branch_name))
+    if (fs::exists(branch_name)|| fs::is_directory(branch_name))
     {
         return;
     }
@@ -517,7 +517,7 @@ void txt_file_copies_function(const char* ch1, const char* ch2)// THIS FUNCTION 
     fs::path s1(ch1);
     fs::path d1(ch2);
 
-    if (!fs::exists(ch2))
+    if (fs::exists(ch2))
     {
         cout << "\n\n\t\tERROR -> BRANCH ALREADY EXIST\n\t\t\t";
         system("pause");
@@ -556,13 +556,9 @@ void merge_branches(const char* ch1, const char* ch2)// FUNCTION TO MERGE 2 DIRE
 {
     fs::path obj1(ch1);
     fs::path obj2(ch2);
-    if (!fs::exists(ch1) || !fs::is_directory(ch2))
+    if (!fs::exists(ch1) || !fs::is_directory(ch1))
     {
         cout << "\n\n\t\tERROR -> BRANCH_FOLDER OR SOURCE FOLDER DOES NOT EXIST\n\t\t\t";
-        return;
-    }
-    if (!fs::exists(obj1)) 
-    {
         return;
     }
     for (const auto& val : fs::directory_iterator(obj1))

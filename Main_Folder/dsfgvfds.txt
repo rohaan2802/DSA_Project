@@ -1,5 +1,0 @@
-NODE_DATA--->    dsfgvfds
-ROW_DATA--->    rohaan,22-i2327,werfgvc,dsfgvfds,sdfg
-PARENT_NODE--->    96
-LEFT_CHILD--->    nullptr
-RIGHT_CHILD--->    nullptr

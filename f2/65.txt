@@ -1,0 +1,5 @@
+NODE_DATA--->    65
+ROW_DATA--->    Zara,21i-0071,OS,65,Passed
+PARENT_NODE--->    77
+LEFT_CHILD--->    55
+RIGHT_CHILD--->    68

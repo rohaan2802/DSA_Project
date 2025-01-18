@@ -1,5 +1,0 @@
-NODE_DATA--->    69
-ROW_DATA--->    Farhan,21i-0088,DBMS,69,Passed
-PARENT_NODE--->    72
-LEFT_CHILD--->    nullptr
-RIGHT_CHILD--->    nullptr

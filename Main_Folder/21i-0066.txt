@@ -1,5 +1,0 @@
-NODE_DATA--->    21i-0066
-ROW_DATA--->    Owais,21i-0066,Algo,85,Passed
-PARENT_NODE--->    21i-0067
-LEFT_CHILD--->    nullptr
-RIGHT_CHILD--->    nullptr

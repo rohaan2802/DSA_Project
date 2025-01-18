@@ -1,5 +1,0 @@
-NODE_DATA--->    DBMS
-ROW_DATA--->    Umar,21i-0081,DBMS,60,Passed
-PARENT_NODE--->    DBMS
-LEFT_CHILD--->    nullptr
-RIGHT_CHILD--->    nullptr

@@ -1,5 +1,0 @@
-NODE_DATA--->    Owais
-ROW_DATA--->    Owais,21i-0072,Algo,45,Failed
-PARENT_NODE--->    Sara
-LEFT_CHILD--->    nullptr
-RIGHT_CHILD--->    Rimsha

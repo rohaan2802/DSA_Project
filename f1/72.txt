@@ -1,0 +1,5 @@
+NODE_DATA--->    72
+ROW_DATA--->    Javeria,21i-0077,Algo,72,Passed
+PARENT_NODE--->    68
+LEFT_CHILD--->    nullptr
+RIGHT_CHILD--->    nullptr

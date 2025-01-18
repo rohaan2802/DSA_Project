@@ -1,0 +1,5 @@
+NODE_DATA--->    92
+ROW_DATA--->    Sara,21i-0070,DBMS,92,Passed
+PARENT_NODE--->    90
+LEFT_CHILD--->    91
+RIGHT_CHILD--->    94

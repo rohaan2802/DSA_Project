@@ -1,5 +1,0 @@
-NODE_DATA--->    Mehwish
-ROW_DATA--->    Mehwish,21i-0075,Algo,68,Passed
-PARENT_NODE--->    Javeria
-LEFT_CHILD--->    nullptr
-RIGHT_CHILD--->    nullptr

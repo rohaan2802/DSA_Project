@@ -1,5 +1,0 @@
-NODE_DATA--->    Sara
-ROW_DATA--->    Sara,21i-0070,DBMS,92,Passed
-PARENT_NODE--->    Taha
-LEFT_CHILD--->    Owais
-RIGHT_CHILD--->    Sidra

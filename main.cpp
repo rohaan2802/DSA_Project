@@ -54,8 +54,8 @@ label_24:
         }
         if (command_get == 1) // CREATE A NEW BRANCH/FOLDER
         {
-            txt_file_copies_function(current_branch, branch_file);
             add_branch_to_array(branch_file, branches_array, "Branches");
+            txt_file_copies_function(current_branch, branch_file);
             append_text("branch ", branch_file, result);
             add_command_history(current_branch, result);
         }

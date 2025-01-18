@@ -1,5 +1,0 @@
-NODE_DATA--->    21i-0068
-ROW_DATA--->    Ayesha,21i-0068,Algo,78,Passed
-PARENT_NODE--->    21i-0067
-LEFT_CHILD--->    nullptr
-RIGHT_CHILD--->    nullptr

@@ -1,5 +1,0 @@
-NODE_DATA--->    21i-0081
-ROW_DATA--->    Umar,21i-0081,DBMS,60,Passed
-PARENT_NODE--->    21i-0077
-LEFT_CHILD--->    21i-0079
-RIGHT_CHILD--->    21i-0083

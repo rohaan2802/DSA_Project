@@ -1,5 +1,0 @@
-NODE_DATA--->    67
-ROW_DATA--->    Faryal,21i-0094,DBMS,67,Passed
-PARENT_NODE--->    66
-LEFT_CHILD--->    nullptr
-RIGHT_CHILD--->    nullptr

@@ -1,5 +1,0 @@
-NODE_DATA--->    Hassan
-ROW_DATA--->    Hassan,21i-0073,Algo,77,Passed
-PARENT_NODE--->    Javeria
-LEFT_CHILD--->    Hamza
-RIGHT_CHILD--->    nullptr

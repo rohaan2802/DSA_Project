@@ -1,5 +1,0 @@
-NODE_DATA--->    sdrtr
-ROW_DATA--->    wedf,df,dxcv,sdrtr,cxvb
-PARENT_NODE--->    sdrtr
-LEFT_CHILD--->    nullptr
-RIGHT_CHILD--->    nullptr

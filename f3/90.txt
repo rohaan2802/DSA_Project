@@ -1,0 +1,5 @@
+NODE_DATA--->    90
+ROW_DATA--->    Ahmed,21i-0067,DBMS,90,Passed
+PARENT_NODE--->    85
+LEFT_CHILD--->    88
+RIGHT_CHILD--->    92

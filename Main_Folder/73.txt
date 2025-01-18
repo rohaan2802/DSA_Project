@@ -1,5 +1,0 @@
-NODE_DATA--->    73
-ROW_DATA--->    Hadi,21i-0085,DBMS,73,Passed
-PARENT_NODE--->    72
-LEFT_CHILD--->    nullptr
-RIGHT_CHILD--->    75

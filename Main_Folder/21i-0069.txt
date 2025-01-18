@@ -1,5 +1,0 @@
-NODE_DATA--->    21i-0069
-ROW_DATA--->    Ali,21i-0069,OS,88,Passed
-PARENT_NODE--->    21i-0073
-LEFT_CHILD--->    21i-0067
-RIGHT_CHILD--->    21i-0071

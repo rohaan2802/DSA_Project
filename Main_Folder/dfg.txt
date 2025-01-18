@@ -1,5 +1,0 @@
-NODE_DATA--->    dfg
-ROW_DATA--->    sdfg,dfgh,dfghfds,dfg,fdghj
-PARENT_NODE--->    92
-LEFT_CHILD--->    94
-RIGHT_CHILD--->    sdfg

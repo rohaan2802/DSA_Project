@@ -1,5 +1,0 @@
-NODE_DATA--->    Ali
-ROW_DATA--->    Ali,21i-0069,OS,88,Passed
-PARENT_NODE--->    Ayesha
-LEFT_CHILD--->    Ahmed
-RIGHT_CHILD--->    Arham

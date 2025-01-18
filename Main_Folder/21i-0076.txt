@@ -1,5 +1,0 @@
-NODE_DATA--->    21i-0076
-ROW_DATA--->    Arham,21i-0076,OS,91,Passed
-PARENT_NODE--->    21i-0075
-LEFT_CHILD--->    nullptr
-RIGHT_CHILD--->    nullptr

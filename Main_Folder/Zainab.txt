@@ -1,5 +1,0 @@
-NODE_DATA--->    Zainab
-ROW_DATA--->    Zainab,21i-0080,Algo,94,Passed
-PARENT_NODE--->    Taha
-LEFT_CHILD--->    Umar
-RIGHT_CHILD--->    Zara
